@@ -5,11 +5,11 @@
 <p align="center">
   I am a second year Honours Bachelor of Technology - Software Development student at Seneca College.
 </p>
-
+  <br>
 <h2 align="center">💻 Languages</h2>
 
 <p align="center">  <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"></code>  <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>  <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"></code>  <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"></code>  <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></code>  <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></code>  <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>  </p>
-
+<br>
 <h2 align="center">🌐 Web Technologies</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js logo">
@@ -27,19 +27,19 @@
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React logo">
   <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js logo">
 </p>
-
+<br>
 <h2 align="center">🎨 Other Technologies</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=qt&logoColor=white" alt="Qt logo">
 </p>
-
+<br>
 <h2 align="center">🚀 Project Management & Methodologies</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira&logoColor=white" alt="JIRA logo">
   <img src="https://img.shields.io/badge/-Scrum/Agile-2496ED?style=flat-square&logo=scrumalliance&logoColor=white" alt="Scrum/Agile logo">
 </p>
-
+<br>
 <h2 align="center">🧠 Concepts & Methodologies</h2>
 
 <p align="center">
@@ -49,7 +49,7 @@
   <img alt="Scalability" src="https://img.shields.io/badge/-Scalability-green?style=flat-square">
   <img alt="Encryption" src="https://img.shields.io/badge/-Encryption-blue?style=flat-square">
 </p>
-
+<br>
 <h2 align="center">📚 Diagramming & Documentation</h2>
 
 <p align="center">
@@ -58,7 +58,7 @@
   Class Design Diagrams <br>
   Use Cases
 </p>
-
+<br>
 <h2 align="center">📚 Software</h2>
 <p align="center">
 Visual Studio Code: <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"></code>
@@ -72,7 +72,7 @@ PyCharm: <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devico
 <p align="center">
 Qt Creator/Qt Designer: <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg"></code>
 </p>
-
+<br>
 <h2 align="center">📫 Contact Me</h2>
 
 <p align="center">
