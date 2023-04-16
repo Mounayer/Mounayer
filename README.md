@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Majd! 👋</h1>
+<h1 align="center">Hi, I'm Majd!</h1>
 
 <p align="center">
   I am a second year Honours Bachelor of Technology - Software Development student at Seneca College.
