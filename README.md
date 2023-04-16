@@ -1,4 +1,5 @@
 
+
 <h1 align="center">Hi, I'm Majd!</h1>
 
 <p align="center">
@@ -56,6 +57,20 @@
   System Sequence Diagrams <br>
   Class Design Diagrams <br>
   Use Cases
+</p>
+
+<h2 align="center">📚 Software</h2>
+<p align="center">
+Visual Studio Code: <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"></code>
+</p>
+<p align="center">
+Visual Studio: <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"></code>
+</p>
+<p align="center">
+PyCharm: <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"></code>
+</p>
+<p align="center">
+Qt Creator/Qt Designer: <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg"></code>
 </p>
 
 <h2 align="center">📫 Contact Me</h2>
