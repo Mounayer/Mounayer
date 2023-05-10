@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Majd!</h1>
 
 <p align="center">
-  I am a second year Honours Bachelor of Technology - Software Development student at Seneca College.
+  I am a third year Honours Bachelor of Technology - Software Development student at Seneca College.
 </p>
   <br>
 <h2 align="center">💻 Languages</h2>
