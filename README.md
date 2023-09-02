@@ -1,14 +1,19 @@
 
 
+
 <h1 align="center">Hi, I'm Majd!</h1>
 
 <p align="center">
   I am a third year Honours Bachelor of Technology - Software Development student at Seneca College.
 </p>
-  <br>
+
+<div align="center"><a href="https://www.linkedin.com/in/almnayer/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a> </div>
+
 <h2 align="center">💻 Languages</h2>
 
-<p align="center">  <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"></code>  <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>  <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"></code>  <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"></code>  <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></code>  <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></code>  <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>  </p>
+<p align="center">  <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"></code>  <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>  <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"></code>  <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"></code>  <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></code>  <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></code>  <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></code>
+  </p>
 <br>
 <h2 align="center">🌐 Web Technologies</h2>
 <p align="center">
@@ -26,7 +31,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React logo">
   <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js logo">
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker logo">
 </p>
+<br>
+<h2 align="center">🌐 Amazon Web Services</h2>  <p align="center">  <img src="https://img.shields.io/badge/-Cognito-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Cognito logo">  <img src="https://img.shields.io/badge/-EC2-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS EC2 logo">  <img src="https://img.shields.io/badge/-ECR-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS ECR logo">  </p>  <p align="center">  <img src="https://img.shields.io/badge/-CloudWatch-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS CloudWatch logo">  <img src="https://img.shields.io/badge/-S3-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS S3 logo">  <img src="https://img.shields.io/badge/-DynamoDB-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS DynamoDB logo">  </p>
 <br>
 <h2 align="center">🎨 Other Technologies</h2>
 <p align="center">
@@ -44,7 +52,9 @@
 
 <p align="center">
   <img alt="Concurrency" src="https://img.shields.io/badge/-Concurrency-ff69b4?style=flat-square">
-  <img alt="Testing" src="https://img.shields.io/badge/-Testing-9cf?style=flat-square">
+  <img alt="Unit & Integration Testing" src="https://img.shields.io/badge/-Unit & Integration Testing-9cf?style=flat-square">
+</p>
+<p align="center">
   <img alt="Maintainability" src="https://img.shields.io/badge/-Maintainability-yellow?style=flat-square">
   <img alt="Scalability" src="https://img.shields.io/badge/-Scalability-green?style=flat-square">
   <img alt="Encryption" src="https://img.shields.io/badge/-Encryption-blue?style=flat-square">
@@ -78,3 +88,9 @@ Qt Creator/Qt Designer: <code><img height="20" src="https://cdn.jsdelivr.net/gh/
 <p align="center">
   My personal website: <a href="https://www.almnayer.com">www.almnayer.com</a>
 </p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mounayer&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mounayer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
