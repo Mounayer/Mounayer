@@ -4,7 +4,7 @@
 <h1 align="center">Hi, I'm Majd!</h1>
 
 <p align="center">
-  I am a third year Honours Bachelor of Technology - Software Development student at Seneca College.
+  I am a fourth year Honours Bachelor of Technology - Software Development student at Seneca College.
 </p>
 
 <div align="center"><a href="https://www.linkedin.com/in/almnayer/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a> </div>
